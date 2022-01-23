@@ -1,0 +1,22 @@
+Tile RedBlock
+Tile RedBricks
+Tile LavaBlock
+Tile Bricks
+Tile MetalPlate
+Tile ConveyorBelt
+Tile MovingPlatform
+Tile FallingPlatform
+
+Item ShotgunAmmo
+Item SniperAmmo
+Item Battery
+Item GrenadeBig
+Item HealthL
+Item HealthS
+Item Potion
+Item AmmoBox
+
+Dec Cloud
+
+NPC Bat
+NPC ShootingBot
